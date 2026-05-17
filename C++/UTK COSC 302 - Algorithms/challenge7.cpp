@@ -1,4 +1,4 @@
-//Jonathan Attanasio, 000606910
+//Jonathan Attanasio
 //This program is supposed to parse through a DNA sequence and find repeated substring within the input.
 //Used push_back for input of the sequencing, also made sure the output lines up with desired format.
 #include <iostream>
